@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: devfile-sample
     app.kubernetes.io/part-of: my-app
-  name: devfile-sampletqc3
+  name: devfile-samplet7ku
 spec:
   path: /
   port:
